@@ -1,6 +1,6 @@
 # :white_check_mark: Задача «Authorization Service» :white_check_mark:
 
-###Авторизация при помощи Spring Boot.
+### Авторизация при помощи Spring Boot.
 
 [Ссылка на условие домашнего задания](https://github.com/netology-code/jd-homeworks/tree/master/spring_boot_rest)
 
