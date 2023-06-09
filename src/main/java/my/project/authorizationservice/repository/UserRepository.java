@@ -6,6 +6,6 @@ import my.project.authorizationservice.enumpackeg.Authorities;
 import java.util.List;
 
 public interface UserRepository {
-    List<Authorities> getUserAuthorities(String user, String password);
+    List<Authorities> getUserAuthorities(ClientPerson person);
     ClientPerson register(ClientPerson person);
 }
