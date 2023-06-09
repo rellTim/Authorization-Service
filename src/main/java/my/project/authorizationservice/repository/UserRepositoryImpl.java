@@ -20,7 +20,9 @@ public class UserRepositoryImpl implements UserRepository {
     private final Map<String, String> gagDataBases = new ConcurrentHashMap<>();
 
     @Override
-    public List<Authorities> getUserAuthorities(String login, String password) {
+    public List<Authorities> getUserAuthorities(ClientPerson person) {
+        String login = person.getLogin();
+        String password = person.getPassword();
         List<Authorities> authorities = new ArrayList<>();
         if (login.equals(admin) && password.equals(passwordAdmin)) {
             gagDataBases.put(admin, passwordAdmin);
@@ -29,7 +31,7 @@ public class UserRepositoryImpl implements UserRepository {
             authorities.add(Authorities.DELETE);
             return authorities;
         }
-        if (gagDataBases.containsKey(login) && password != null) {
+        if (gagDataBases.containsKey(person.getLogin()) && person.getPassword() != null) {
             authorities.add(Authorities.READ);
         }
         return authorities;

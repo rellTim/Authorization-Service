@@ -15,13 +15,13 @@ import java.util.List;
 public class AuthorizationService {
     private final UserRepository repository;
 
-    public List<Authorities> getAuthorities(String login, String password) {
-        if (isEmpty(login) || isEmpty(password)) {
+    public List<Authorities> getAuthorities(ClientPerson person) {
+        if (isEmpty(person.getLogin()) || isEmpty(person.getPassword())) {
             throw new InvalidCredentials("User name or password is empty");
         }
-        List<Authorities> userAuthorities = repository.getUserAuthorities(login, password);
+        List<Authorities> userAuthorities = repository.getUserAuthorities(person);
         if (isEmpty(userAuthorities)) {
-            throw new UnauthorizedUser("Unknown user " + login);
+            throw new UnauthorizedUser("Unknown user " + person.getLogin());
         }
         return userAuthorities;
     }
@@ -35,7 +35,7 @@ public class AuthorizationService {
     }
 
     public ClientPerson register(ClientPerson person) {
-        if (person!=null) {
+        if (person != null) {
             return repository.register(person);
         }
         throw new InvalidCredentials();
