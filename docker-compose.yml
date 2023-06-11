@@ -1,9 +1,7 @@
 version: '3'
 services:
   nginx:
-    build:
-      context: .
-      dockerfile: Dockerfile.nginx.dockerfile
+    image: kalivan/nginx-image
     ports:
       - 80:80
     volumes:
@@ -14,22 +12,16 @@ services:
       - backend3
 
   backend1:
-    build:
-      context: .
-      dockerfile: Dockerfile.java17.dockerfile
+    image: kalivan/backend-image
     environment:
       - SERVER_PORT=9999
 
   backend2:
-    build:
-      context: .
-      dockerfile: Dockerfile.java17.dockerfile
+    image: kalivan/backend-image
     environment:
       - SERVER_PORT=9998
 
   backend3:
-    build:
-      context: .
-      dockerfile: Dockerfile.java17.dockerfile
+    image: kalivan/backend-image
     environment:
       - SERVER_PORT=9997
