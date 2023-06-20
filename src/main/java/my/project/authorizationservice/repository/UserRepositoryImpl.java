@@ -24,9 +24,7 @@ public class UserRepositoryImpl implements UserRepository {
         List<Authorities> authorities = new ArrayList<>();
         if (login.equals(admin) && password.equals(passwordAdmin)) {
             gagDataBases.put(admin, passwordAdmin);
-            authorities.add(Authorities.READ);
-            authorities.add(Authorities.WRITE);
-            authorities.add(Authorities.DELETE);
+            authorities.addAll(Arrays.asList(Authorities.WRITE, Authorities.DELETE, Authorities.READ));
             return authorities;
         }
         if (gagDataBases.containsKey(person.getLogin()) && person.getPassword() != null) {
