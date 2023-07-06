@@ -20,7 +20,7 @@ public class AuthorizationController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello - " + port;
+        return "Hello - " + "version 2.0";
     }
 
     @GetMapping("/login")
@@ -30,6 +30,7 @@ public class AuthorizationController {
 
     @PostMapping("/register")
     public ClientPerson register(@RequestBody @Validated ClientPerson person) {
+        System.out.println(person.getLogin() + person.getPassword());
         return service.register(person);
     }
 }

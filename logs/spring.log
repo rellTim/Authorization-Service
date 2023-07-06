@@ -1,0 +1,1031 @@
+2023-07-06T16:40:43.312+03:00  INFO 20644 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 20644 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T16:40:43.313+03:00  INFO 20644 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T16:40:44.569+03:00  INFO 20644 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T16:40:44.610+03:00  INFO 20644 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.506 seconds (process running for 2.375)
+2023-07-06T16:44:56.018+03:00  INFO 23052 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 23052 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T16:44:56.020+03:00  INFO 23052 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T16:44:57.187+03:00  INFO 23052 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T16:44:57.223+03:00  INFO 23052 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.413 seconds (process running for 2.054)
+2023-07-06T16:45:14.031+03:00  INFO 3924 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 3924 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T16:45:14.033+03:00  INFO 3924 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T16:45:15.172+03:00  INFO 3924 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T16:45:15.212+03:00  INFO 3924 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.378 seconds (process running for 2.016)
+2023-07-06T17:32:44.332+03:00  INFO 19136 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 19136 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T17:32:44.334+03:00  INFO 19136 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T17:32:45.472+03:00  INFO 19136 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T17:32:45.513+03:00  INFO 19136 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.392 seconds (process running for 2.021)
+2023-07-06T18:10:02.957+03:00  INFO 19284 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 19284 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:10:02.958+03:00  INFO 19284 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:10:03.847+03:00  INFO 19284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T18:10:03.856+03:00  INFO 19284 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T18:10:03.857+03:00  INFO 19284 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T18:10:03.934+03:00  INFO 19284 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T18:10:03.935+03:00  INFO 19284 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 964 ms
+2023-07-06T18:10:04.375+03:00  INFO 19284 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:10:04.446+03:00  INFO 19284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 60102 (http) with context path ''
+2023-07-06T18:10:04.455+03:00  INFO 19284 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.728 seconds (process running for 2.518)
+2023-07-06T18:10:04.827+03:00  INFO 19284 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T18:10:04.829+03:00  INFO 19284 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T18:10:04.842+03:00  INFO 19284 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T18:10:04.864+03:00  INFO 19284 --- [main] tc.testcontainers/ryuk:0.4.0             : Pulling docker image: testcontainers/ryuk:0.4.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T18:10:07.142+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Starting to pull image
+2023-07-06T18:10:07.160+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  0 downloaded,  0 extracted, (0 bytes/0 bytes)
+2023-07-06T18:10:08.499+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  2 pending,  1 downloaded,  0 extracted, (677 KB/? MB)
+2023-07-06T18:10:08.667+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  1 pending,  2 downloaded,  0 extracted, (1 MB/? MB)
+2023-07-06T18:10:08.676+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  0 extracted, (1 MB/5 MB)
+2023-07-06T18:10:08.803+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  1 extracted, (3 MB/5 MB)
+2023-07-06T18:10:08.874+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  2 extracted, (3 MB/5 MB)
+2023-07-06T18:10:08.959+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  3 extracted, (5 MB/5 MB)
+2023-07-06T18:10:08.982+03:00  INFO 19284 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pull complete. 3 layers, pulled in 1s (downloaded 5 MB at 5 MB/s)
+2023-07-06T18:10:09.004+03:00  INFO 19284 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T18:10:09.135+03:00  INFO 19284 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: 64f7b973be09fa93930f132bab0ac098af111bc317c4445f743bb46238d5db80
+2023-07-06T18:10:09.590+03:00  INFO 19284 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT4.7440109S
+2023-07-06T18:10:09.629+03:00  INFO 19284 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T18:10:09.630+03:00  INFO 19284 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T18:10:09.630+03:00  INFO 19284 --- [main] org.testcontainers.DockerClientFactory   : ✔︎ Docker server version should be at least 1.6.0
+2023-07-06T18:10:09.630+03:00  INFO 19284 --- [main] tc.myapp:1.0                             : Creating container for image: myapp:1.0
+2023-07-06T18:10:09.665+03:00  INFO 19284 --- [main] tc.myapp:1.0                             : Container myapp:1.0 is starting: 5456ecdc0fdac4e51fabb3bbf5ce615c1eadc1c40b4dacb9e6a112d611ba634d
+2023-07-06T18:11:10.103+03:00 ERROR 19284 --- [main] tc.myapp:1.0                             : Could not start container
+
+org.testcontainers.containers.ContainerLaunchException: Timed out waiting for container port to open (localhost ports: [60120] should be listening)
+	at org.testcontainers.containers.wait.strategy.HostPortWaitStrategy.waitUntilReady(HostPortWaitStrategy.java:101) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.wait.strategy.AbstractWaitStrategy.waitUntilReady(AbstractWaitStrategy.java:52) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.waitUntilContainerStarted(GenericContainer.java:964) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.tryStart(GenericContainer.java:490) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.lambda$doStart$0(GenericContainer.java:344) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.rnorth.ducttape.unreliables.Unreliables.retryUntilSuccess(Unreliables.java:81) ~[duct-tape-1.0.8.jar:na]
+	at org.testcontainers.containers.GenericContainer.doStart(GenericContainer.java:334) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.start(GenericContainer.java:322) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.start(TestcontainersExtension.java:242) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.access$200(TestcontainersExtension.java:229) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$null$4(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.lambda$getOrComputeIfAbsent$4(ExtensionValuesStore.java:86) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.computeValue(ExtensionValuesStore.java:223) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.get(ExtensionValuesStore.java:211) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.evaluate(ExtensionValuesStore.java:191) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.access$100(ExtensionValuesStore.java:171) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.getOrComputeIfAbsent(ExtensionValuesStore.java:89) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.NamespaceAwareStore.getOrComputeIfAbsent(NamespaceAwareStore.java:53) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$beforeEach$5(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[na:na]
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[na:na]
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) ~[na:na]
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327) ~[na:na]
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:686) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateParallel(ReduceOps.java:927) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[na:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.beforeEach(TestcontainersExtension.java:85) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachCallbacks$2(TestMethodTestDescriptor.java:166) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachCallbacks(TestMethodTestDescriptor.java:165) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:132) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57) ~[junit5-rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:na]
+
+2023-07-06T18:11:10.142+03:00 ERROR 19284 --- [main] tc.myapp:1.0                             : Log output from the failed container:
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-07-06T15:10:11.052Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Starting AuthorizationServiceApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app.jar started by root in /)
+2023-07-06T15:10:11.058Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T15:10:12.416Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2023-07-06T15:10:12.425Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T15:10:12.425Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T15:10:12.492Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T15:10:12.493Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1366 ms
+2023-07-06T15:10:13.014Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T15:10:13.062Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2023-07-06T15:10:13.071Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Started AuthorizationServiceApplication in 2.547 seconds (process running for 3.074)
+
+2023-07-06T18:12:51.119+03:00  INFO 25096 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 25096 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:12:51.120+03:00  INFO 25096 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:12:51.999+03:00  INFO 25096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T18:12:52.008+03:00  INFO 25096 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T18:12:52.008+03:00  INFO 25096 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T18:12:52.092+03:00  INFO 25096 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T18:12:52.093+03:00  INFO 25096 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 962 ms
+2023-07-06T18:12:52.520+03:00  INFO 25096 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:12:52.588+03:00  INFO 25096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 60305 (http) with context path ''
+2023-07-06T18:12:52.599+03:00  INFO 25096 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.705 seconds (process running for 2.567)
+2023-07-06T18:12:52.796+03:00  INFO 25096 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T18:12:52.976+03:00  INFO 25096 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T18:12:52.977+03:00  INFO 25096 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T18:12:52.988+03:00  INFO 25096 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T18:12:53.005+03:00  INFO 25096 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T18:12:53.173+03:00  INFO 25096 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: fbe4a31c7f7e4e364f92dc2ab2ebecb55e4142201121e055f130df3a48ea64a9
+2023-07-06T18:12:53.564+03:00  INFO 25096 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT0.5701678S
+2023-07-06T18:12:53.569+03:00  INFO 25096 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T18:12:53.569+03:00  INFO 25096 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T18:12:53.569+03:00  INFO 25096 --- [main] org.testcontainers.DockerClientFactory   : ✔︎ Docker server version should be at least 1.6.0
+2023-07-06T18:12:53.569+03:00  INFO 25096 --- [main] tc.myapp:1.0                             : Creating container for image: myapp:1.0
+2023-07-06T18:12:53.601+03:00  INFO 25096 --- [main] tc.myapp:1.0                             : Container myapp:1.0 is starting: b40a2232aadd010b62657d28da6b3994fe9fdfe1d80701d3665971eb23c4c4cb
+2023-07-06T18:13:53.944+03:00 ERROR 25096 --- [main] tc.myapp:1.0                             : Could not start container
+
+org.testcontainers.containers.ContainerLaunchException: Timed out waiting for container port to open (localhost ports: [60310] should be listening)
+	at org.testcontainers.containers.wait.strategy.HostPortWaitStrategy.waitUntilReady(HostPortWaitStrategy.java:101) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.wait.strategy.AbstractWaitStrategy.waitUntilReady(AbstractWaitStrategy.java:52) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.waitUntilContainerStarted(GenericContainer.java:964) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.tryStart(GenericContainer.java:490) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.lambda$doStart$0(GenericContainer.java:344) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.rnorth.ducttape.unreliables.Unreliables.retryUntilSuccess(Unreliables.java:81) ~[duct-tape-1.0.8.jar:na]
+	at org.testcontainers.containers.GenericContainer.doStart(GenericContainer.java:334) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.start(GenericContainer.java:322) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.start(TestcontainersExtension.java:242) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.access$200(TestcontainersExtension.java:229) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$null$4(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.lambda$getOrComputeIfAbsent$4(ExtensionValuesStore.java:86) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.computeValue(ExtensionValuesStore.java:223) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.get(ExtensionValuesStore.java:211) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.evaluate(ExtensionValuesStore.java:191) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.access$100(ExtensionValuesStore.java:171) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.getOrComputeIfAbsent(ExtensionValuesStore.java:89) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.NamespaceAwareStore.getOrComputeIfAbsent(NamespaceAwareStore.java:53) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$beforeEach$5(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[na:na]
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[na:na]
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) ~[na:na]
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327) ~[na:na]
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:686) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateParallel(ReduceOps.java:927) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[na:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.beforeEach(TestcontainersExtension.java:85) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachCallbacks$2(TestMethodTestDescriptor.java:166) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachCallbacks(TestMethodTestDescriptor.java:165) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:132) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57) ~[junit5-rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:na]
+
+2023-07-06T18:13:53.983+03:00 ERROR 25096 --- [main] tc.myapp:1.0                             : Log output from the failed container:
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-07-06T15:12:54.826Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Starting AuthorizationServiceApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app.jar started by root in /)
+2023-07-06T15:12:54.829Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T15:12:56.036Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2023-07-06T15:12:56.045Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T15:12:56.045Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T15:12:56.133Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T15:12:56.133Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1234 ms
+2023-07-06T15:12:56.597Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T15:12:56.637Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2023-07-06T15:12:56.648Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Started AuthorizationServiceApplication in 2.343 seconds (process running for 2.798)
+
+2023-07-06T18:17:38.345+03:00  INFO 24540 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 24540 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:17:38.346+03:00  INFO 24540 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:17:39.260+03:00  INFO 24540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T18:17:39.272+03:00  INFO 24540 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T18:17:39.272+03:00  INFO 24540 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T18:17:39.348+03:00  INFO 24540 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T18:17:39.348+03:00  INFO 24540 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 989 ms
+2023-07-06T18:17:39.786+03:00  INFO 24540 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:17:39.852+03:00  INFO 24540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 60407 (http) with context path ''
+2023-07-06T18:17:39.863+03:00  INFO 24540 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.739 seconds (process running for 2.532)
+2023-07-06T18:17:40.044+03:00  INFO 24540 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T18:17:40.217+03:00  INFO 24540 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T18:17:40.218+03:00  INFO 24540 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T18:17:40.230+03:00  INFO 24540 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T18:17:40.245+03:00  INFO 24540 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T18:17:40.421+03:00  INFO 24540 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: 972f69701c1a01ea63f3df6f3b304f60cceb5b55879a64bca3dbebb5f2f3d768
+2023-07-06T18:17:40.848+03:00  INFO 24540 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT0.6133064S
+2023-07-06T18:17:40.854+03:00  INFO 24540 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T18:17:40.854+03:00  INFO 24540 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T18:17:40.854+03:00  INFO 24540 --- [main] org.testcontainers.DockerClientFactory   : ✔︎ Docker server version should be at least 1.6.0
+2023-07-06T18:17:40.855+03:00  INFO 24540 --- [main] tc.myapp:1.0                             : Creating container for image: myapp:1.0
+2023-07-06T18:17:40.892+03:00  INFO 24540 --- [main] tc.myapp:1.0                             : Container myapp:1.0 is starting: 5defb399ab701a905b2db2223be41b6ea3df9ffb6ca87f71d9bb77f57594e7bb
+2023-07-06T18:18:41.231+03:00 ERROR 24540 --- [main] tc.myapp:1.0                             : Could not start container
+
+org.testcontainers.containers.ContainerLaunchException: Timed out waiting for container port to open (localhost ports: [60410] should be listening)
+	at org.testcontainers.containers.wait.strategy.HostPortWaitStrategy.waitUntilReady(HostPortWaitStrategy.java:101) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.wait.strategy.AbstractWaitStrategy.waitUntilReady(AbstractWaitStrategy.java:52) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.waitUntilContainerStarted(GenericContainer.java:964) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.tryStart(GenericContainer.java:490) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.lambda$doStart$0(GenericContainer.java:344) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.rnorth.ducttape.unreliables.Unreliables.retryUntilSuccess(Unreliables.java:81) ~[duct-tape-1.0.8.jar:na]
+	at org.testcontainers.containers.GenericContainer.doStart(GenericContainer.java:334) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.start(GenericContainer.java:322) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.start(TestcontainersExtension.java:242) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.access$200(TestcontainersExtension.java:229) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$null$4(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.lambda$getOrComputeIfAbsent$4(ExtensionValuesStore.java:86) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.computeValue(ExtensionValuesStore.java:223) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.get(ExtensionValuesStore.java:211) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.evaluate(ExtensionValuesStore.java:191) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.access$100(ExtensionValuesStore.java:171) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.getOrComputeIfAbsent(ExtensionValuesStore.java:89) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.NamespaceAwareStore.getOrComputeIfAbsent(NamespaceAwareStore.java:53) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$beforeEach$5(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[na:na]
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[na:na]
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) ~[na:na]
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327) ~[na:na]
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:686) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateParallel(ReduceOps.java:927) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[na:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.beforeEach(TestcontainersExtension.java:85) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachCallbacks$2(TestMethodTestDescriptor.java:166) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachCallbacks(TestMethodTestDescriptor.java:165) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:132) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57) ~[junit5-rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:na]
+
+2023-07-06T18:18:41.270+03:00 ERROR 24540 --- [main] tc.myapp:1.0                             : Log output from the failed container:
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-07-06T15:17:42.089Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Starting AuthorizationServiceApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app.jar started by root in /)
+2023-07-06T15:17:42.091Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T15:17:43.284Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2023-07-06T15:17:43.295Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T15:17:43.295Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T15:17:43.378Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T15:17:43.379Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1211 ms
+2023-07-06T15:17:43.919Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T15:17:43.993Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2023-07-06T15:17:44.002Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Started AuthorizationServiceApplication in 2.39 seconds (process running for 2.822)
+
+2023-07-06T18:34:28.060+03:00  INFO 12900 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 12900 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:34:28.063+03:00  INFO 12900 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:34:28.963+03:00  INFO 12900 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T18:34:28.969+03:00  INFO 12900 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T18:34:28.969+03:00  INFO 12900 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T18:34:29.047+03:00  INFO 12900 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T18:34:29.048+03:00  INFO 12900 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 969 ms
+2023-07-06T18:34:29.510+03:00  INFO 12900 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:34:29.575+03:00  INFO 12900 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 60717 (http) with context path ''
+2023-07-06T18:34:29.584+03:00  INFO 12900 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.726 seconds (process running for 2.513)
+2023-07-06T18:34:29.786+03:00  INFO 12900 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T18:34:29.976+03:00  INFO 12900 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T18:34:29.977+03:00  INFO 12900 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T18:34:29.993+03:00  INFO 12900 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T18:34:30.012+03:00  INFO 12900 --- [main] tc.testcontainers/ryuk:0.4.0             : Pulling docker image: testcontainers/ryuk:0.4.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T18:34:32.193+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Starting to pull image
+2023-07-06T18:34:32.206+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  0 downloaded,  0 extracted, (0 bytes/0 bytes)
+2023-07-06T18:34:33.593+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  2 pending,  1 downloaded,  0 extracted, (383 KB/? MB)
+2023-07-06T18:34:33.752+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  1 pending,  2 downloaded,  0 extracted, (3 MB/? MB)
+2023-07-06T18:34:33.853+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  0 extracted, (5 MB/5 MB)
+2023-07-06T18:34:33.949+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  1 extracted, (5 MB/5 MB)
+2023-07-06T18:34:34.020+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  2 extracted, (5 MB/5 MB)
+2023-07-06T18:34:34.109+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  3 extracted, (5 MB/5 MB)
+2023-07-06T18:34:34.126+03:00  INFO 12900 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pull complete. 3 layers, pulled in 1s (downloaded 5 MB at 5 MB/s)
+2023-07-06T18:34:34.141+03:00  INFO 12900 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T18:34:34.249+03:00  INFO 12900 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: 57a824d354af052cb2d3ce3c4cf74662a710f31cc41bcfe97e0f24e65a099cb1
+2023-07-06T18:34:34.565+03:00  INFO 12900 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT4.5679738S
+2023-07-06T18:34:34.570+03:00  INFO 12900 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T18:34:34.570+03:00  INFO 12900 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T18:34:34.570+03:00  INFO 12900 --- [main] org.testcontainers.DockerClientFactory   : ?? Docker server version should be at least 1.6.0
+2023-07-06T18:34:34.573+03:00  INFO 12900 --- [main] tc.myapp:1.0                             : Pulling docker image: myapp:1.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T18:34:36.487+03:00 ERROR 12900 --- [docker-java-stream--322058771] c.g.d.api.async.ResultCallbackTemplate   : Error during callback
+
+com.github.dockerjava.api.exception.NotFoundException: Status 404: {"message":"pull access denied for myapp, repository does not exist or may require 'docker login': denied: requested access to the resource is denied"}
+
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:241) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.lambda$executeAndStream$1(DefaultInvocationBuilder.java:269) ~[testcontainers-1.18.0.jar:1.18.0]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-07-06T18:34:36.494+03:00  INFO 12900 --- [main] tc.myapp:1.0                             : Pulling docker image: myapp:1.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T18:34:38.380+03:00 ERROR 12900 --- [docker-java-stream--322058771] c.g.d.api.async.ResultCallbackTemplate   : Error during callback
+
+com.github.dockerjava.api.exception.NotFoundException: Status 404: {"message":"pull access denied for myapp, repository does not exist or may require 'docker login': denied: requested access to the resource is denied"}
+
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:241) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.lambda$executeAndStream$1(DefaultInvocationBuilder.java:269) ~[testcontainers-1.18.0.jar:1.18.0]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-07-06T18:35:47.175+03:00  INFO 15684 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 15684 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:35:47.177+03:00  INFO 15684 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:35:48.085+03:00  INFO 15684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T18:35:48.094+03:00  INFO 15684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T18:35:48.095+03:00  INFO 15684 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T18:35:48.173+03:00  INFO 15684 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T18:35:48.174+03:00  INFO 15684 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 983 ms
+2023-07-06T18:35:48.622+03:00  INFO 15684 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:35:48.689+03:00  INFO 15684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 60751 (http) with context path ''
+2023-07-06T18:35:48.697+03:00  INFO 15684 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.716 seconds (process running for 2.451)
+2023-07-06T18:35:48.881+03:00  INFO 15684 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T18:35:49.057+03:00  INFO 15684 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T18:35:49.058+03:00  INFO 15684 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T18:35:49.071+03:00  INFO 15684 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T18:35:49.084+03:00  INFO 15684 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T18:35:49.260+03:00  INFO 15684 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: a812a48af21af1f453808d3def4cd84e6f6d7e68b9a6bef34dda244379a49cd4
+2023-07-06T18:35:49.650+03:00  INFO 15684 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT0.5744915S
+2023-07-06T18:35:49.655+03:00  INFO 15684 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T18:35:49.655+03:00  INFO 15684 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T18:35:49.655+03:00  INFO 15684 --- [main] org.testcontainers.DockerClientFactory   : ?? Docker server version should be at least 1.6.0
+2023-07-06T18:35:49.660+03:00  INFO 15684 --- [main] tc.myapp:1.0                             : Pulling docker image: myapp:1.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T18:35:51.598+03:00 ERROR 15684 --- [docker-java-stream--322058771] c.g.d.api.async.ResultCallbackTemplate   : Error during callback
+
+com.github.dockerjava.api.exception.NotFoundException: Status 404: {"message":"pull access denied for myapp, repository does not exist or may require 'docker login': denied: requested access to the resource is denied"}
+
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:241) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.lambda$executeAndStream$1(DefaultInvocationBuilder.java:269) ~[testcontainers-1.18.0.jar:1.18.0]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-07-06T18:35:51.604+03:00  INFO 15684 --- [main] tc.myapp:1.0                             : Pulling docker image: myapp:1.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T18:35:53.507+03:00 ERROR 15684 --- [docker-java-stream--322058771] c.g.d.api.async.ResultCallbackTemplate   : Error during callback
+
+com.github.dockerjava.api.exception.NotFoundException: Status 404: {"message":"pull access denied for myapp, repository does not exist or may require 'docker login': denied: requested access to the resource is denied"}
+
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:241) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.shaded.com.github.dockerjava.core.DefaultInvocationBuilder.lambda$executeAndStream$1(DefaultInvocationBuilder.java:269) ~[testcontainers-1.18.0.jar:1.18.0]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2023-07-06T18:36:32.661+03:00  INFO 24848 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 24848 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:36:32.663+03:00  INFO 24848 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:36:33.817+03:00  INFO 24848 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:36:33.855+03:00  INFO 24848 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.4 seconds (process running for 2.08)
+2023-07-06T18:45:22.875+03:00  INFO 21568 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 21568 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T18:45:22.877+03:00  INFO 21568 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T18:45:24.136+03:00  INFO 21568 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T18:45:24.177+03:00  INFO 21568 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.516 seconds (process running for 2.218)
+2023-07-06T19:06:28.787+03:00  INFO 13728 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 13728 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T19:06:28.788+03:00  INFO 13728 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T19:06:29.656+03:00  INFO 13728 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T19:06:29.665+03:00  INFO 13728 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T19:06:29.665+03:00  INFO 13728 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T19:06:29.738+03:00  INFO 13728 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T19:06:29.739+03:00  INFO 13728 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 940 ms
+2023-07-06T19:06:30.172+03:00  INFO 13728 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T19:06:30.238+03:00  INFO 13728 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 61437 (http) with context path ''
+2023-07-06T19:06:30.246+03:00  INFO 13728 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.677 seconds (process running for 2.494)
+2023-07-06T19:06:30.428+03:00  INFO 13728 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T19:06:30.632+03:00  INFO 13728 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T19:06:30.633+03:00  INFO 13728 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T19:06:30.649+03:00  INFO 13728 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T19:06:30.671+03:00  INFO 13728 --- [main] tc.testcontainers/ryuk:0.4.0             : Pulling docker image: testcontainers/ryuk:0.4.0. Please be patient; this may take some time but only needs to be done once.
+2023-07-06T19:06:32.835+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Starting to pull image
+2023-07-06T19:06:32.846+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  0 downloaded,  0 extracted, (0 bytes/0 bytes)
+2023-07-06T19:06:34.200+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  2 pending,  1 downloaded,  0 extracted, (622 KB/? MB)
+2023-07-06T19:06:34.368+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  1 pending,  2 downloaded,  0 extracted, (3 MB/? MB)
+2023-07-06T19:06:34.383+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  0 extracted, (5 MB/5 MB)
+2023-07-06T19:06:34.573+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  1 extracted, (5 MB/5 MB)
+2023-07-06T19:06:34.653+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  2 extracted, (5 MB/5 MB)
+2023-07-06T19:06:34.729+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pulling image layers:  0 pending,  3 downloaded,  3 extracted, (5 MB/5 MB)
+2023-07-06T19:06:34.747+03:00  INFO 13728 --- [docker-java-stream-1578141039] tc.testcontainers/ryuk:0.4.0             : Pull complete. 3 layers, pulled in 1s (downloaded 5 MB at 5 MB/s)
+2023-07-06T19:06:34.767+03:00  INFO 13728 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T19:06:34.883+03:00  INFO 13728 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: a60d79e0d134c9a45e6056692fdf00c16e36229d2bd04fe5c2511417177a43f9
+2023-07-06T19:06:35.253+03:00  INFO 13728 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT4.599487S
+2023-07-06T19:06:35.258+03:00  INFO 13728 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T19:06:35.258+03:00  INFO 13728 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T19:06:35.258+03:00  INFO 13728 --- [main] org.testcontainers.DockerClientFactory   : ✔︎ Docker server version should be at least 1.6.0
+2023-07-06T19:06:35.258+03:00  INFO 13728 --- [main] tc.app:1.0                               : Creating container for image: app:1.0
+2023-07-06T19:06:35.293+03:00  INFO 13728 --- [main] tc.app:1.0                               : Container app:1.0 is starting: 6d14deb1e0c1fea2e9040613283cc983b08d63dd4e5a10950d50914ce5d3b56d
+2023-07-06T19:07:35.592+03:00 ERROR 13728 --- [main] tc.app:1.0                               : Could not start container
+
+org.testcontainers.containers.ContainerLaunchException: Timed out waiting for container port to open (localhost ports: [61453] should be listening)
+	at org.testcontainers.containers.wait.strategy.HostPortWaitStrategy.waitUntilReady(HostPortWaitStrategy.java:101) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.wait.strategy.AbstractWaitStrategy.waitUntilReady(AbstractWaitStrategy.java:52) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.waitUntilContainerStarted(GenericContainer.java:964) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.tryStart(GenericContainer.java:490) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.lambda$doStart$0(GenericContainer.java:344) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.rnorth.ducttape.unreliables.Unreliables.retryUntilSuccess(Unreliables.java:81) ~[duct-tape-1.0.8.jar:na]
+	at org.testcontainers.containers.GenericContainer.doStart(GenericContainer.java:334) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.start(GenericContainer.java:322) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.start(TestcontainersExtension.java:242) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.access$200(TestcontainersExtension.java:229) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$null$4(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.lambda$getOrComputeIfAbsent$4(ExtensionValuesStore.java:86) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.computeValue(ExtensionValuesStore.java:223) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.get(ExtensionValuesStore.java:211) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.evaluate(ExtensionValuesStore.java:191) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.access$100(ExtensionValuesStore.java:171) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.getOrComputeIfAbsent(ExtensionValuesStore.java:89) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.NamespaceAwareStore.getOrComputeIfAbsent(NamespaceAwareStore.java:53) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$beforeEach$5(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[na:na]
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[na:na]
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) ~[na:na]
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327) ~[na:na]
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:686) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateParallel(ReduceOps.java:927) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[na:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.beforeEach(TestcontainersExtension.java:85) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachCallbacks$2(TestMethodTestDescriptor.java:166) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachCallbacks(TestMethodTestDescriptor.java:165) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:132) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57) ~[junit5-rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:na]
+
+2023-07-06T19:07:35.631+03:00 ERROR 13728 --- [main] tc.app:1.0                               : Log output from the failed container:
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-07-06T16:06:36.477Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Starting AuthorizationServiceApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app.jar started by root in /)
+2023-07-06T16:06:36.486Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T16:06:37.644Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2023-07-06T16:06:37.654Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T16:06:37.655Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T16:06:37.733Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T16:06:37.734Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1186 ms
+2023-07-06T16:06:38.204Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T16:06:38.256Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2023-07-06T16:06:38.266Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Started AuthorizationServiceApplication in 2.263 seconds (process running for 2.727)
+
+2023-07-06T19:08:01.118+03:00  INFO 1972 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 1972 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T19:08:01.119+03:00  INFO 1972 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T19:08:01.988+03:00  INFO 1972 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T19:08:01.996+03:00  INFO 1972 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T19:08:01.996+03:00  INFO 1972 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T19:08:02.060+03:00  INFO 1972 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T19:08:02.060+03:00  INFO 1972 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 930 ms
+2023-07-06T19:08:02.462+03:00  INFO 1972 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T19:08:02.525+03:00  INFO 1972 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 61473 (http) with context path ''
+2023-07-06T19:08:02.535+03:00  INFO 1972 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.656 seconds (process running for 2.448)
+2023-07-06T19:08:02.712+03:00  INFO 1972 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T19:08:02.873+03:00  INFO 1972 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T19:08:02.875+03:00  INFO 1972 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T19:08:02.887+03:00  INFO 1972 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T19:08:02.900+03:00  INFO 1972 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T19:08:03.071+03:00  INFO 1972 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: d1bbb83d614c5e5859827425facee310981075a0d5022e4109e04de5f4510528
+2023-07-06T19:08:03.424+03:00  INFO 1972 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT0.5337494S
+2023-07-06T19:08:03.430+03:00  INFO 1972 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T19:08:03.430+03:00  INFO 1972 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T19:08:03.431+03:00  INFO 1972 --- [main] org.testcontainers.DockerClientFactory   : ✔︎ Docker server version should be at least 1.6.0
+2023-07-06T19:08:03.431+03:00  INFO 1972 --- [main] tc.app:1.0                               : Creating container for image: app:1.0
+2023-07-06T19:08:03.464+03:00  INFO 1972 --- [main] tc.app:1.0                               : Container app:1.0 is starting: 08e9e5a40de8bf06edf74cf2b7296534a1108836c41aef77aa69ec2362d564f9
+2023-07-06T19:09:03.828+03:00 ERROR 1972 --- [main] tc.app:1.0                               : Could not start container
+
+org.testcontainers.containers.ContainerLaunchException: Timed out waiting for container port to open (localhost ports: [61476] should be listening)
+	at org.testcontainers.containers.wait.strategy.HostPortWaitStrategy.waitUntilReady(HostPortWaitStrategy.java:101) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.wait.strategy.AbstractWaitStrategy.waitUntilReady(AbstractWaitStrategy.java:52) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.waitUntilContainerStarted(GenericContainer.java:964) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.tryStart(GenericContainer.java:490) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.lambda$doStart$0(GenericContainer.java:344) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.rnorth.ducttape.unreliables.Unreliables.retryUntilSuccess(Unreliables.java:81) ~[duct-tape-1.0.8.jar:na]
+	at org.testcontainers.containers.GenericContainer.doStart(GenericContainer.java:334) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.start(GenericContainer.java:322) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.start(TestcontainersExtension.java:242) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.access$200(TestcontainersExtension.java:229) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$null$4(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.lambda$getOrComputeIfAbsent$4(ExtensionValuesStore.java:86) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.computeValue(ExtensionValuesStore.java:223) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.get(ExtensionValuesStore.java:211) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.evaluate(ExtensionValuesStore.java:191) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.access$100(ExtensionValuesStore.java:171) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.getOrComputeIfAbsent(ExtensionValuesStore.java:89) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.NamespaceAwareStore.getOrComputeIfAbsent(NamespaceAwareStore.java:53) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$beforeEach$5(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[na:na]
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[na:na]
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) ~[na:na]
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327) ~[na:na]
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:686) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateParallel(ReduceOps.java:927) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[na:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.beforeEach(TestcontainersExtension.java:85) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachCallbacks$2(TestMethodTestDescriptor.java:166) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachCallbacks(TestMethodTestDescriptor.java:165) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:132) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57) ~[junit5-rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:na]
+
+2023-07-06T19:09:03.869+03:00 ERROR 1972 --- [main] tc.app:1.0                               : Log output from the failed container:
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-07-06T16:08:04.662Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Starting AuthorizationServiceApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app.jar started by root in /)
+2023-07-06T16:08:04.663Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T16:08:05.967Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2023-07-06T16:08:05.975Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T16:08:05.975Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T16:08:06.029Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T16:08:06.030Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1302 ms
+2023-07-06T16:08:06.506Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T16:08:06.560Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2023-07-06T16:08:06.573Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Started AuthorizationServiceApplication in 2.395 seconds (process running for 2.832)
+
+2023-07-06T19:22:27.714+03:00  INFO 26456 --- [main] p.a.AuthorizationServiceApplicationTests : Starting AuthorizationServiceApplicationTests using Java 17.0.7 with PID 26456 (started by Kalivan in F:\Idea\javas work\DZ\Spring Boot and\AuthorizationService)
+2023-07-06T19:22:27.715+03:00  INFO 26456 --- [main] p.a.AuthorizationServiceApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T19:22:28.599+03:00  INFO 26456 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2023-07-06T19:22:28.609+03:00  INFO 26456 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T19:22:28.610+03:00  INFO 26456 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T19:22:28.689+03:00  INFO 26456 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T19:22:28.689+03:00  INFO 26456 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 961 ms
+2023-07-06T19:22:29.111+03:00  INFO 26456 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T19:22:29.173+03:00  INFO 26456 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 61749 (http) with context path ''
+2023-07-06T19:22:29.186+03:00  INFO 26456 --- [main] p.a.AuthorizationServiceApplicationTests : Started AuthorizationServiceApplicationTests in 1.706 seconds (process running for 2.518)
+2023-07-06T19:22:29.382+03:00  INFO 26456 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
+2023-07-06T19:22:29.557+03:00  INFO 26456 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
+2023-07-06T19:22:29.558+03:00  INFO 26456 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
+2023-07-06T19:22:29.571+03:00  INFO 26456 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
+  Server Version: 20.10.24
+  API Version: 1.41
+  Operating System: Docker Desktop
+  Total Memory: 1908 MB
+2023-07-06T19:22:29.586+03:00  INFO 26456 --- [main] tc.testcontainers/ryuk:0.4.0             : Creating container for image: testcontainers/ryuk:0.4.0
+2023-07-06T19:22:29.778+03:00  INFO 26456 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 is starting: c16a3c8cb0935db7e040fdb62e7632e5c7ceaac5a249a1785ab90bc62249a59a
+2023-07-06T19:22:30.168+03:00  INFO 26456 --- [main] tc.testcontainers/ryuk:0.4.0             : Container testcontainers/ryuk:0.4.0 started in PT0.593251S
+2023-07-06T19:22:30.172+03:00  INFO 26456 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
+2023-07-06T19:22:30.174+03:00  INFO 26456 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
+2023-07-06T19:22:30.175+03:00  INFO 26456 --- [main] org.testcontainers.DockerClientFactory   : ✔︎ Docker server version should be at least 1.6.0
+2023-07-06T19:22:30.176+03:00  INFO 26456 --- [main] tc.app:1.0                               : Creating container for image: app:1.0
+2023-07-06T19:22:30.214+03:00  INFO 26456 --- [main] tc.app:1.0                               : Container app:1.0 is starting: 9e503db001a0b85305b45cf3e3b8011cd07123e39500d11712940a8faa57712d
+2023-07-06T19:23:30.581+03:00 ERROR 26456 --- [main] tc.app:1.0                               : Could not start container
+
+org.testcontainers.containers.ContainerLaunchException: Timed out waiting for container port to open (localhost ports: [61752] should be listening)
+	at org.testcontainers.containers.wait.strategy.HostPortWaitStrategy.waitUntilReady(HostPortWaitStrategy.java:101) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.wait.strategy.AbstractWaitStrategy.waitUntilReady(AbstractWaitStrategy.java:52) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.waitUntilContainerStarted(GenericContainer.java:964) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.tryStart(GenericContainer.java:490) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.lambda$doStart$0(GenericContainer.java:344) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.rnorth.ducttape.unreliables.Unreliables.retryUntilSuccess(Unreliables.java:81) ~[duct-tape-1.0.8.jar:na]
+	at org.testcontainers.containers.GenericContainer.doStart(GenericContainer.java:334) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.containers.GenericContainer.start(GenericContainer.java:322) ~[testcontainers-1.18.0.jar:1.18.0]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.start(TestcontainersExtension.java:242) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension$StoreAdapter.access$200(TestcontainersExtension.java:229) ~[junit-jupiter-1.16.2.jar:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$null$4(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.lambda$getOrComputeIfAbsent$4(ExtensionValuesStore.java:86) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.computeValue(ExtensionValuesStore.java:223) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$MemoizingSupplier.get(ExtensionValuesStore.java:211) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.evaluate(ExtensionValuesStore.java:191) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore$StoredValue.access$100(ExtensionValuesStore.java:171) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.ExtensionValuesStore.getOrComputeIfAbsent(ExtensionValuesStore.java:89) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.execution.NamespaceAwareStore.getOrComputeIfAbsent(NamespaceAwareStore.java:53) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.lambda$beforeEach$5(TestcontainersExtension.java:82) ~[junit-jupiter-1.16.2.jar:na]
+	at java.base/java.util.stream.ReferencePipeline$15$1.accept(ReferencePipeline.java:540) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[na:na]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[na:na]
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133) ~[na:na]
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:960) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceTask.doLeaf(ReduceOps.java:934) ~[na:na]
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327) ~[na:na]
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[na:na]
+	at java.base/java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:686) ~[na:na]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateParallel(ReduceOps.java:927) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[na:na]
+	at org.testcontainers.junit.jupiter.TestcontainersExtension.beforeEach(TestcontainersExtension.java:85) ~[junit-jupiter-1.16.2.jar:na]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeEachCallbacks$2(TestMethodTestDescriptor.java:166) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeBeforeMethodsOrCallbacksUntilExceptionOccurs$6(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeMethodsOrCallbacksUntilExceptionOccurs(TestMethodTestDescriptor.java:202) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeBeforeEachCallbacks(TestMethodTestDescriptor.java:165) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:132) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.3.jar:5.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.3.jar:1.9.3]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:57) ~[junit5-rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:na]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:232) ~[junit-rt.jar:na]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) ~[junit-rt.jar:na]
+
+2023-07-06T19:23:30.622+03:00 ERROR 26456 --- [main] tc.app:1.0                               : Log output from the failed container:
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-07-06T16:22:31.351Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Starting AuthorizationServiceApplication v0.0.1-SNAPSHOT using Java 17-ea with PID 1 (/app.jar started by root in /)
+2023-07-06T16:22:31.353Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06T16:22:32.537Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2023-07-06T16:22:32.545Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06T16:22:32.545Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-07-06T16:22:32.603Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06T16:22:32.603Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1199 ms
+2023-07-06T16:22:32.975Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-07-06T16:22:33.014Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2023-07-06T16:22:33.022Z  INFO 1 --- [           main] m.p.a.AuthorizationServiceApplication    : Started AuthorizationServiceApplication in 2.099 seconds (process running for 2.531)
+

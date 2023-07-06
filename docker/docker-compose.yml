@@ -5,8 +5,8 @@ services:
     ports:
       - "80:80"
     volumes:
-      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
-      - ./src:/var/www
+      - ../nginx/default.conf:/etc/nginx/conf.d/default.conf
+      - ../:/var/www
     depends_on:
       - backend1
       - backend2
