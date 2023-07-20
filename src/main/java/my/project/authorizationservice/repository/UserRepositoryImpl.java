@@ -19,15 +19,15 @@ public class UserRepositoryImpl implements UserRepository {
 
     @Override
     public List<Authorities> getUserAuthorities(ClientPerson person) {
-        String login = person.getLogin();
-        String password = person.getPassword();
+        String login = person.login();
+        String password = person.password();
         List<Authorities> authorities = new ArrayList<>();
         if (login.equals(admin) && password.equals(passwordAdmin)) {
             gagDataBases.put(admin, passwordAdmin);
             authorities.addAll(Arrays.asList(Authorities.WRITE, Authorities.DELETE, Authorities.READ));
             return authorities;
         }
-        if (gagDataBases.containsKey(person.getLogin()) && person.getPassword() != null) {
+        if (gagDataBases.containsKey(person.login()) && person.password() != null) {
             authorities.add(Authorities.READ);
         }
         return authorities;
@@ -35,8 +35,8 @@ public class UserRepositoryImpl implements UserRepository {
 
     @Override
     public ClientPerson register(ClientPerson person) {
-        String login = person.getLogin();
-        String password = person.getPassword();
+        String login = person.login();
+        String password = person.password();
         if (!gagDataBases.containsKey(login)) {
             gagDataBases.put(login, password);
             return person;

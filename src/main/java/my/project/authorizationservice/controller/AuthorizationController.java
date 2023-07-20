@@ -4,7 +4,6 @@ import lombok.RequiredArgsConstructor;
 import my.project.authorizationservice.client.ClientPerson;
 import my.project.authorizationservice.enumpackeg.Authorities;
 import my.project.authorizationservice.service.AuthorizationService;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
@@ -15,12 +14,10 @@ import java.util.List;
 @RequestMapping("/api/auth")
 public class AuthorizationController {
     private final AuthorizationService service;
-    @Value("${server.port}")
-    private String port;
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello - " + "version 2.0";
+        return "Hello - " + "version 1.0";
     }
 
     @GetMapping("/login")
@@ -30,7 +27,7 @@ public class AuthorizationController {
 
     @PostMapping("/register")
     public ClientPerson register(@RequestBody @Validated ClientPerson person) {
-        System.out.println(person.getLogin() + person.getPassword());
+        System.out.println(person.login() + person.password());
         return service.register(person);
     }
 }

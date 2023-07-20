@@ -16,12 +16,12 @@ public class AuthorizationService {
     private final UserRepository repository;
 
     public List<Authorities> getAuthorities(ClientPerson person) {
-        if (isEmpty(person.getLogin()) || isEmpty(person.getPassword())) {
+        if (isEmpty(person.login()) || isEmpty(person.password())) {
             throw new InvalidCredentials("User name or password is empty");
         }
         List<Authorities> userAuthorities = repository.getUserAuthorities(person);
         if (isEmpty(userAuthorities)) {
-            throw new UnauthorizedUser("Unknown user " + person.getLogin());
+            throw new UnauthorizedUser("Unknown user " + person.login());
         }
         return userAuthorities;
     }
